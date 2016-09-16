@@ -1,0 +1,16 @@
+{
+  "name": "bulk-add-tool",
+  "version": "0.1.0",
+  "description": "Sample project to bulk add devices to Watson IoT",
+
+  "scripts": {
+    "start": "node bulkadd"
+  },
+  "dependencies": {
+    "ibmiotf": "*"
+  },
+  "author": {
+    "name": "Jeffrey Dare",
+    "email": "jeffdare@in.ibm.com"
+  }
+}

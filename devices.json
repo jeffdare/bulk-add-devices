@@ -1,0 +1,14 @@
+{
+  "devices" : [
+    {
+      "typeId": "temp",
+      "deviceId": "SomeValue123",
+      "authToken": "qwertyu1234"
+    },
+    {
+      "typeId": "temp",
+      "deviceId": "SomeValue12",
+      "authToken": "qwertyu1234"
+    }
+  ]
+}
