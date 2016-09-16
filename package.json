@@ -1,6 +1,6 @@
 {
-  "name": "bulk-add-tool",
-  "version": "0.1.0",
+  "name": "bulk-add-devices",
+  "version": "0.1.1",
   "description": "Sample project to bulk add devices to Watson IoT",
 
   "scripts": {

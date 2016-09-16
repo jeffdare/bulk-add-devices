@@ -2,12 +2,12 @@
   "devices" : [
     {
       "typeId": "temp",
-      "deviceId": "SomeValue123",
+      "deviceId": "device01",
       "authToken": "qwertyu1234"
     },
     {
       "typeId": "temp",
-      "deviceId": "SomeValue12",
+      "deviceId": "device02",
       "authToken": "qwertyu1234"
     }
   ]
