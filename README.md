@@ -12,6 +12,7 @@ This is a tool written in Node.js to add multiple devices to [Watson IoT](http:/
 5.  `node bulkadd.js`
 
 **config.json**
+
 Configuration file containing your organization credentials
 
     {
@@ -22,6 +23,7 @@ Configuration file containing your organization credentials
     }
 
 **devices.json**
+
 Array containing your list of devices to be registered
 
     {
